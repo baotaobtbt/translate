@@ -65,9 +65,13 @@ python translator.py
 
 文件结构
 translator/
+
 ├── translator.py    # 主程序文件
+
 ├── bg.jpg           # 背景图片文件
+
 └── README.md        # 本说明文件
+
 注意事项
 API 限制：百度翻译 API 有免费额度限制，超出需要付费，具体请参考百度官方文档。
 网络连接：程序需联网才能调用翻译 API。
